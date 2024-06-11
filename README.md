@@ -3,7 +3,7 @@
 **PARA LOS COLABORADORES**
 Sean bienvenidos al repositorio de esta actividad.
 Como tal yo, como el master del equipo, tuve que digerir un poco más de información para una correcta elaboración de este repositorio, entonces lo suyo
-es en sí, algo sencillo. Igualmente cualauier duda no duden en mandar mensaje al grupo Ó directamente a mí, Johan Pérez.
+es en sí, algo sencillo. Igualmente cualquier duda no duden en mandar mensaje al grupo Ó directamente a mí, Johan Pérez.
 
 El primer paso para comprender el cómo funciona GIT, y por ende, GITHUB, empieza en familiarizarse con los entornos de los comandos de LINUX.
 Siguiendo esta forma de aprendizaje en "Guía", les comparto un par de videos guía y tutoriales de cómo empezar con estas herramientas,
@@ -22,6 +22,14 @@ Les comparto la información que Alexander me compartió, que pueden serles de g
 Y una lista de comandos de LINUX, los cuales son indispensables al momento de utilizar GIT & GITHUB:
 
   https://linuxjourney.com/
+
+Durante el proceso de subir archivos, me salio el siguiente error:
+
+  GitHub Error: failed to push some refs to '[REPO URL]'
+
+Si les pasó igual, adjunto un video de apoyo:
+
+  https://www.youtube.com/watch?v=44ziZ12rJwU&t=188s
 
 
 Terminando de proporcionar toda información y vínculos necesarios, proseguiré a explicar cómo irá toda la estructura del repositorio,
