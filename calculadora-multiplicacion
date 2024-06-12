@@ -1,25 +1,20 @@
 #include <iostream>
-#include <stdlib.h>
-
 using namespace std;
 
-void multiplicacion()
-{
-// Declaración de variables
-    system("cls");
-    int num1, num2, resultado;
+int main() {
+    double num1, num2, resultado;
 
-    // Solicitar al usuario que ingrese los números
-    cout << "Ingrese el primer numero: ";
+    // Solicitar al usuario los números a multiplicar
+    cout << "Ingresa el primer número: ";
     cin >> num1;
-
-    cout << "Ingrese el segundo numero: ";
+    cout << "Ingresa el segundo número: ";
     cin >> num2;
 
-    // Realizar la multiplicacion
+    // Realizar la multiplicación
     resultado = num1 * num2;
 
     // Mostrar el resultado
-    cout << "El resultado de la multiplicacion es: " << resultado << std::endl;
-    system("pause");
+    cout << "El resultado de la multiplicación es: " << resultado << endl;
+
+    return 0;
 }
