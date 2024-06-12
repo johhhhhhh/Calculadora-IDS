@@ -49,4 +49,13 @@ Graciar por leer.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PARA EL CLIENTE**
-Sigue esperando actualizaciones.
+Favor de descargar el archivo "Calculadora ID" para ejecutar la version final del programa.
+
+Gracias por leer.
+
+
+
+
+Equipo 5 IDS
+Todos los derechos resrvados y esas cosas legales.
+2024.
