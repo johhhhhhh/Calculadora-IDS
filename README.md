@@ -49,7 +49,10 @@ Graciar por leer.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PARA EL CLIENTE**
+
 Favor de descargar el archivo "Calculadora ID" para ejecutar la version final del programa.
+
+Si desea ejecutar el .exe en crudo, favor de descargar todo el .ZIP, donde incluya el 100% del repositorio.
 
 Gracias por leer.
 
