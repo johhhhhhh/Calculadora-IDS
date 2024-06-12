@@ -1,18 +1,21 @@
-#include <stdio.h>
+#ifndef CALCULADORA_SUMA_H
+#define CALCULADORA_SUMA_H
+#include <stdlib.h>
+#include <iostream>
 
-void suma()
-{
-        int num1, num2, suma;
-    system("cls");
-    printf("Ingrese el primer número: ");
-    scanf("%d", &num1);
+void suma();
 
-    printf("Ingrese el segundo número: ");
-    scanf("%d", &num2);
+using namespace std;
 
-    suma = num1 + num2;
-
-    printf("La suma de %d y %d es: %d\n", num1, num2, suma);
-
+void suma(){
+	int num1, num2;
+	
+	system("cls");
+	cout<<"Por favor, introduce el numero 1"<<endl;
+	cin>>num1;
+	cout<<"Por favor, introduce el numero 2"<<endl;
+	cin>>num2;
+	cout<<"La respuesta de la suma de "<<num1<<" mas "<<num2<<" es "<<num1+num2<<endl;
 }
 
+#endif
